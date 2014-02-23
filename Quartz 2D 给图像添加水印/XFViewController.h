@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface XFViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIImageView *demoView;
 
 @end

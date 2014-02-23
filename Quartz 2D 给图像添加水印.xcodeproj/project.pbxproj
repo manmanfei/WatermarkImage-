@@ -19,6 +19,7 @@
 		9BD23E7617AE90F10035A0A4 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD23E7417AE90F10035A0A4 /* MainStoryboard_iPhone.storyboard */; };
 		9BD23E7917AE90F10035A0A4 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD23E7717AE90F10035A0A4 /* MainStoryboard_iPad.storyboard */; };
 		9BD23E7C17AE90F10035A0A4 /* XFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BD23E7B17AE90F10035A0A4 /* XFViewController.m */; };
+		9BD23E8317AE91830035A0A4 /* NatGeo01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD23E8217AE91830035A0A4 /* NatGeo01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		9BD23E7817AE90F10035A0A4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		9BD23E7A17AE90F10035A0A4 /* XFViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XFViewController.h; sourceTree = "<group>"; };
 		9BD23E7B17AE90F10035A0A4 /* XFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XFViewController.m; sourceTree = "<group>"; };
+		9BD23E8217AE91830035A0A4 /* NatGeo01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NatGeo01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		9BD23E6317AE90F10035A0A4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9BD23E8217AE91830035A0A4 /* NatGeo01.png */,
 				9BD23E6417AE90F10035A0A4 /* Quartz 2D 给图像添加水印-Info.plist */,
 				9BD23E6517AE90F10035A0A4 /* InfoPlist.strings */,
 				9BD23E6817AE90F10035A0A4 /* main.m */,
@@ -168,6 +171,7 @@
 				9BD23E7317AE90F10035A0A4 /* Default-568h@2x.png in Resources */,
 				9BD23E7617AE90F10035A0A4 /* MainStoryboard_iPhone.storyboard in Resources */,
 				9BD23E7917AE90F10035A0A4 /* MainStoryboard_iPad.storyboard in Resources */,
+				9BD23E8317AE91830035A0A4 /* NatGeo01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
